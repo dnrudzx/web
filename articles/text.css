@@ -1,0 +1,19 @@
+.mainTitle{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.subTitle{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+
+.nomal{
+    margin-top: 10px;
+    font-size: 19px;
+}
+
+.mini{
+    margin-top: 10px;
+}

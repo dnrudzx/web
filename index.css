@@ -1,0 +1,58 @@
+/* 배경 : #ecf0f */
+/* 글자 :  #2c3e50 */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #ecf0f1;
+}
+
+.Layout_All{
+    display: flex;
+    margin-top: 200px;
+    position: absolute;
+    width: 100%;
+    left: 10%;
+}
+
+.Layout_Left{
+    font-size: 90px;
+    font-weight: 700;
+    height: auto;
+    flex: 0 0 20%;
+    -webkit-animation-name: Navigation_moveInLeft__3Jepz;
+    animation-name: Navigation_moveInLeft__3Jepz;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+}
+
+.Text_Left_Item{
+    position: relative;
+    text-decoration: none;
+    margin-bottom: 5px;
+    max-width: 100%;
+    cursor: pointer;
+}
+
+.Text_Left_Item_Text{
+    color: #000;
+    position: relative;
+    z-index: 1;
+}
+
+.Layout_Right{
+    width: 60%;
+    height: 80vh;
+    padding: 0 200px;
+    color: #000;
+}
+
+.article{
+    width: 100%;
+    height: 100%
+}
