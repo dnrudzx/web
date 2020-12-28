@@ -12,7 +12,7 @@ body{
 
 .Layout_All{
     display: flex;
-    margin-top: 200px;
+    margin-top: 50px;
     position: absolute;
     width: 100%;
     left: 10%;
